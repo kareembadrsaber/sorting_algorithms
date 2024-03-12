@@ -1,4 +1,4 @@
-0x1B. C - Sorting algorithms & Big OResources
+# 0x1B. C - Sorting algorithms & Big OResources
 Read or watch:
 
 Sorting algorithm
